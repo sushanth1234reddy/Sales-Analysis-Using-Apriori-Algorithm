@@ -1,0 +1,9 @@
+Milk, Beer, Shampoo,  Diapers, Beer, Shampoo, Milk,  Beer, Shampoo, Beer, Shampoo, (Milk-Cereal),
+ Yogurt, Wipes, (Soap-Toothpaste), Chips, (Pizza-Soda), Conditioner, Bread, Yogurt, Wipes, Chips, Conditioner, Bread,  Apples, Potatoes,  Chicken, Rice, Tomatoes, Milk, Eggs, Cereal, (Soap-Toothpaste), Wipes, Chips, Conditioner, (Pizza-Soda), Yogurt, Wipes, (Milk-Cereal), Chips, Conditioner, Ground Beef, Pasta, Bananas, Broccoli, Cheese, Carrots, Frozen Pizza, Avocado, Butter, (Pizza-Soda), Canned Soup, Strawberries, Lettuce, Canned Tuna, Onions, Pork Chops, Peanut Butter, Almonds, Toilet Paper,
+ Fruit, (Pizza-Soda), Baby food, (Milk-Cereal), Pizza, Soap,  (Bread-Butter), Fruit, Baby food, Pizza, Soap, (Pizza-Soda), Fruit, (Soap-Toothpaste), Baby food, Pizza, Soap, Eggs, Fruit, Baby food, Pizza, Soap,
+Butter, Juice, (Bread-Butter), Soda, (Bread-Butter), Toothpaste, (Milk-Cereal), Cereal, Eggs, (Pizza-Soda), Diapers, Soda, (Milk-Cereal), Toothpaste, Butter, (Soap-Toothpaste), Granola, Formula, Snacks, Mouthwash, Juice, (Bread-Butter), Coffee, (Soap-Toothpaste), Formula, Snacks, Mouthwash, (Milk-Cereal), (Bread-Butter), (Chips-Snacks), Apples, Potatoes, Bread, Chicken, Rice, Tomatoes, Milk, Eggs, Cereal, (Pizza-Soda), Orange Juice, Spinach, Yogurt, (Bread-Butter), Ground Beef, Pasta, Bananas, Broccoli, Cheese, (Pizza-Soda), Apples, Potatoes, Carrots, Frozen Pizza, Avocado, Butter, (Pizza-Soda), Canned Soup, Strawberries, Lettuce, Canned Tuna, Onions, Pork Chops, Peanut Butter, Almonds, Toilet Paper, Toothpaste,Apples, Potatoes, Carrots
+
+
+
+
+
